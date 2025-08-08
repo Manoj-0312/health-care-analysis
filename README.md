@@ -103,7 +103,5 @@ This project demonstrated how data visualization can:
 - **User Feedback**: Collect feedback from clinicians to refine the dashboard.
 - **Detailed Time Analysis**: Incorporate patient acuity and resource availability.
 
----
 
-## 📌 Folder Structure
 
